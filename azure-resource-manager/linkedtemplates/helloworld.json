@@ -6,7 +6,7 @@
 	"resources": [],
 	"outputs": {
 		"greetingMessage": {
-			"value": "Hello World",
+			"value": "Hello World 11",
 			"type" : "string"
 		}
 	}
